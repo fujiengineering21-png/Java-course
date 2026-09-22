@@ -1,1 +1,3 @@
-# Java-courseGitの練習
+# Java-course
+
+Gitの練習
